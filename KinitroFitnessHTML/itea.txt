@@ -1,0 +1,43 @@
+1. make the bg image 50% front pic 50% back pic then just place links on top of each bg image. 
+background-image: 
+    <img src="assets/backflic.jpg" alt="Mountain" >
+     <img src="https://pbs.twimg.com/media/DdfDrecWsAANQ8v.jpg" alt="Snow" style="width:100%;">
+     
+     
+      <center>
+    <h1>Kinitro Fitness Web App</h1>
+    <a href="workouts.html" title="Visit Workouts Page">Visit our Workout Tutorials</a>
+  </center>
+
+<h3>Single Arm Barbell Row</h3>
+<img src="" alt="Flowers in Chania">
+
+
+//exercise template for reuse
+<!DOCTYPE html>
+<html>
+    <style>
+    img { 
+        width: 100%;
+        height: 16%;
+      }
+      </style>
+<body>
+
+    <center><h1>Back Exercises</h1></center>
+<h3>Incline Bench</h3>
+<img src="" alt="Flowers in Chania">
+<h3>Flat Bench Press</h3>
+<img src="" alt="Flowers in Chania">
+<h3>Lat Pull Down</h3>
+<img src="" alt="Flowers in Chania">
+<h3>Bent Over Row</h3>
+<img src="" alt="Flowers in Chania">
+<h3>Cable Row</h3>
+<img src="" alt="Flowers in Chania">
+<h3>Lat Bar Push Down</h3>
+<img src="" alt="Flowers in Chania">
+
+
+</body>
+</html>
